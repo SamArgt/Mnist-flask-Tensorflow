@@ -1,0 +1,5 @@
+flask == 1.02
+tensorflow == 1.9.0
+numpy == 1.15.4
+imageio == 2.2.0
+PIL == 4.2.1

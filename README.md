@@ -1,6 +1,6 @@
 # Mnist, flask and Tensorflow
 
-A flask to play with the Mnist dataset.
+A flask app for playing with the Mnist dataset.
 
 
 ## Run the flask App
