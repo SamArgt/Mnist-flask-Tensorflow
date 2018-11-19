@@ -14,8 +14,11 @@ Then connect to : http://127.0.0.1:5000/
 
 ## Usage
 
-Train the model then play with it by drawing number!
+Train the model
+<img src="train_model.PNG">
 
+Test the model by draing number
+<img src="draw_number.PNG">
 
 ## Built with
 
