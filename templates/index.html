@@ -68,7 +68,7 @@ body{
 <div class="big-box">
 
 <div style="font-weight:bold;margin:auto;width:700px;margin-top:40px;padding-left:15px;">
-  <p>DRAW A NUMBER IN THE LEFT BOX<p>
+  <p>DRAW A DIGIT IN THE LEFT BOX<p>
 </div>
 
 <div class = "flex-container">
@@ -80,7 +80,7 @@ body{
 
   <div style="width:80px;height:280px;margin-right:10px;margin-left:10px;">
     <button type="button" onclick="sendDraw()"  class="button_submit"><span class="glyphicon glyphicon-circle-arrow-right"></span>
- 
+
     </button>
   </div>
 
@@ -112,7 +112,7 @@ sketchpad.penSize = 15
 
 
 function sendDraw(){
-  
+
   var drawJSON = sketchpad.toJSON();
   var canvas = document.getElementById('sketchpad');
   var dataURL = canvas.toDataURL();
