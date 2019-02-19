@@ -5,6 +5,7 @@ A flask app for playing with the Mnist dataset.
 ## Environment
 <p>Anaconda Python 3.6</p>
 Install librabries:
+
 ```
 conda install requirements.txt
 ```
